@@ -1,0 +1,18 @@
+.logo {
+    font-weight: bold;
+    background-color: rgb(247, 43, 28);
+    color: white;
+    font-size: 50px;
+    font-style: bold;
+    font-style: italic;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+}
+
+.text {
+    float: right;
+}
